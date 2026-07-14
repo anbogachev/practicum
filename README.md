@@ -1,2 +1,2 @@
 # practicum
-Training and practice of programming
+Learning and practicing programming
